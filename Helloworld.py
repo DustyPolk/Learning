@@ -5,3 +5,5 @@ print(f"x: {x}, y: {y}")
 
 
 # bool, int, string
+# test
+y = 10
