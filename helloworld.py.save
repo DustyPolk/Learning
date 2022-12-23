@@ -1,0 +1,12 @@
+#!/usr/bin/python3
+
+hours = input("How many hours did you work this week? ")
+
+if float(hours) <= 40:
+	rate = 10.50
+	print ("You made: ", float(hours) * float(rate))
+else:
+	overtime = float(hours) - float(40)
+	otrate = 10.50 * 1.5
+	o
+	print ("You made: ", float(overtime) * float(otrate) + )
